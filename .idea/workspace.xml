@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="492ec5f7-f022-468c-8b85-c169aa96a860" name="Default Changelist" comment="" />
+    <list default="true" id="492ec5f7-f022-468c-8b85-c169aa96a860" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day2/ManipulasiString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/MathPow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/String03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/String04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/String05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/stringKasus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Quiz/Soal1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quiz/Soal1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day2/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/test1.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\panja\IdeaProjects\Quiz\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1SdgKHqBOhwUU97bUNqyAOGMKkq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -31,56 +53,86 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test1">
-    <configuration name="soal09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soal09" />
+  <component name="RunManager" selected="Application.stringKasus">
+    <configuration name="String03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.String03" />
       <module name="Quiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="soal4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soal4" />
+    <configuration name="String04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.String04" />
       <module name="Quiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="soal6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soal6" />
+    <configuration name="String05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.String05" />
       <module name="Quiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.Strings" />
       <module name="Quiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test1" />
+    <configuration name="stringKasus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.stringKasus" />
       <module name="Quiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.soal09" />
-      <item itemvalue="Application.soal4" />
-      <item itemvalue="Application.soal6" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.Strings" />
+      <item itemvalue="Application.String03" />
+      <item itemvalue="Application.String04" />
+      <item itemvalue="Application.String05" />
+      <item itemvalue="Application.stringKasus" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test1" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.soal09" />
-        <item itemvalue="Application.soal6" />
-        <item itemvalue="Application.soal4" />
+        <item itemvalue="Application.stringKasus" />
+        <item itemvalue="Application.String05" />
+        <item itemvalue="Application.String04" />
+        <item itemvalue="Application.String03" />
+        <item itemvalue="Application.Strings" />
       </list>
     </recent_temporary>
   </component>
@@ -96,5 +148,18 @@
       <updated>1571898820388</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
