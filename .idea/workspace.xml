@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="492ec5f7-f022-468c-8b85-c169aa96a860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day2/ManipulasiString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/MathPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/String03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/String04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/String05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/stringKasus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Looping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Looping2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/String06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/kasusBaru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/testLogika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quis2/Soal06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quis2/Soal07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quis2/Soal5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quis2/soal03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quis2/soal04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quis2/soal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quis2/soal2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Quiz/Soal1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Quiz/Soal1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day2/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/test1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +56,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.stringKasus">
-    <configuration name="String03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.String03" />
+  <component name="RunManager" selected="Application.soal03">
+    <configuration name="Soal06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quis2.Soal06" />
       <module name="Quiz" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="quis2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.String04" />
+    <configuration name="Soal07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quis2.Soal07" />
       <module name="Quiz" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="quis2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.String05" />
+    <configuration name="Soal5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quis2.Soal5" />
       <module name="Quiz" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="quis2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Strings" />
+    <configuration name="soal03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quis2.soal03" />
       <module name="Quiz" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="quis2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringKasus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.stringKasus" />
+    <configuration name="soal04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quis2.soal04" />
       <module name="Quiz" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="quis2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,19 +123,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Strings" />
-      <item itemvalue="Application.String03" />
-      <item itemvalue="Application.String04" />
-      <item itemvalue="Application.String05" />
-      <item itemvalue="Application.stringKasus" />
+      <item itemvalue="Application.soal04" />
+      <item itemvalue="Application.Soal5" />
+      <item itemvalue="Application.Soal06" />
+      <item itemvalue="Application.Soal07" />
+      <item itemvalue="Application.soal03" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.stringKasus" />
-        <item itemvalue="Application.String05" />
-        <item itemvalue="Application.String04" />
-        <item itemvalue="Application.String03" />
-        <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.soal03" />
+        <item itemvalue="Application.Soal06" />
+        <item itemvalue="Application.Soal07" />
+        <item itemvalue="Application.Soal5" />
+        <item itemvalue="Application.soal04" />
       </list>
     </recent_temporary>
   </component>
